@@ -1,6 +1,7 @@
 ---
 name: "Feature"
 about: Feature 작업 사항 입력
+title: "[Feat] "
 labels: "✨ Feature"
 assignees: ""
 ---
